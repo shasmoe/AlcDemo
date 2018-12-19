@@ -1,2 +1,1 @@
-# AlcDemo
-AlcDemo Repository
+Here is demo for my AlcDemo.
